@@ -322,6 +322,22 @@ sup {
     border-color: #00ACEE
 }
 
+#github {
+    color: #372E2C
+}
+
+#github:hover {
+    border-color: #372E2C
+}
+
+#stackoverflow {
+	color: #CD5D44
+}
+
+#stackoverflow: hover {
+	border-color: #CD5D44
+}
+
 #blog {
     color: #E74C3C
 }
