@@ -242,13 +242,13 @@ body {
 
 @media screen and (max-width: 720px) {
     body {
-        font-size: 45px
+        font-size: 35px
     }
 }
 
 @media screen and (max-width: 500px) {
     body {
-        font-size: 35px
+        font-size: 25px
     }
 }
 
